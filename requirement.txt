@@ -1,0 +1,5 @@
+pygps
+cv2
+socket
+platform
+subprocess
